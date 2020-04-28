@@ -1,6 +1,6 @@
 # Mouse Scripter
- logs and recreates mouse clicks at given coordinates\
- created for windows 10
+ Logs and recreates mouse clicks at given coordinates\
+ Created for windows 10 and python3
 # Required Packages
  pip install pynput
 # Usage
@@ -9,4 +9,4 @@
  python mouse_mover.py\
  #Specify how many times to loop (optional) and wait for it to complete
 # Feedback
- open to new ideas and improvements 👍 👍 👍
+ Feel free suggest new ideas and improvements 👍 👍 👍
