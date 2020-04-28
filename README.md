@@ -1,7 +1,7 @@
 # Mouse Scripter
- logs and recreates mouse clicks at given coordinates
- created for windows 10 
-# required packages
+ logs and recreates mouse clicks at given coordinates\
+ created for windows 10\
+# Required Packages
  pip install pynput
-# feedback
+# Feedback
  open to new ideas and improvements 👍 👍 👍
