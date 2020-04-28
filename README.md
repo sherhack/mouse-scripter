@@ -3,5 +3,10 @@
  created for windows 10
 # Required Packages
  pip install pynput
+# Usage
+ python mouse_tracker.py
+ #click wherever, use mouse scroll to finish the tracker
+ python mouse_mover.py
+ #specify how many times to loop (optional) and wait for it to complete
 # Feedback
  open to new ideas and improvements 👍 👍 👍
